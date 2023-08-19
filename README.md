@@ -9,7 +9,7 @@ Attempt at predicting reported UFO shapes in sightings based on:
 
 So, this didn't work, but I enjoyed working with this dataset. Flair was used for sentiment analysis.
 
-#### Flair
+#### Flair:
 Contextual String Embeddings for Sequence Labeling (Akbik et al., COLING 2018) FLAIR: An Easy-to-Use Framework for State-of-the-Art NLP (Akbik et al., NAACL 2019)
 
 #### Data Source:
